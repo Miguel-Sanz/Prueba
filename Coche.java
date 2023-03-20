@@ -1,4 +1,4 @@
 public class Coche {
     private String marca;
-    private int potencia;
+    private int cilindrada;
 }
